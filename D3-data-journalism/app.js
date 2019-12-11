@@ -225,7 +225,7 @@ d3.csv("data.csv").then(censusData => {
     .attr("x", 0 - (height / 2))
     .attr("value", "obesity")
     .classed("inactive", true)
-    .text("Obese (%)");
+    .text("Obesity (%)");
 
   // Add smokes label to y-axis labels
   var smokesLabel = yLabelGroup.append("text")
