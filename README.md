@@ -12,3 +12,4 @@ When hovering over a state's circle, a pop-up will appear showing the numerical 
 The chart is created using the D3 Javascript library and scalable vector graphics.
 
 ## Requirements
+To run this visualization, you will need to use python3 -m http.server to see it in your browser.
