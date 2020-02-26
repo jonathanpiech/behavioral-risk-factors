@@ -5,4 +5,6 @@ This project is an interactive chart that uses data from the U.S. Census Bureau 
 
 ![alt-text](https://raw.githubusercontent.com/jonathanpiech/behavioral-risk-factors/master/brf1.png "Image of chart")
 
+![alt-text](https://raw.githubusercontent.com/jonathanpiech/behavioral-risk-factors/master/brf2.png "Chart with pop-up")
+
 ## Requirements
