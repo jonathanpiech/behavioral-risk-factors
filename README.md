@@ -9,4 +9,6 @@ When hovering over a state's circle, a pop-up will appear showing the numerical 
 
 ![alt-text](https://raw.githubusercontent.com/jonathanpiech/behavioral-risk-factors/master/brf2.png "Chart with pop-up")
 
+The chart is created using the D3 Javascript library and scalable vector graphics.
+
 ## Requirements
